@@ -1,0 +1,21 @@
+.todolist{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.error{
+  color:red
+}
+.input-error{
+  outline-style: none;
+ 
+  border:red 1px solid;
+
+}
+.btn{
+  background-color: aqua;
+}
+.opacity{
+  opacity: 0.5;
+}
